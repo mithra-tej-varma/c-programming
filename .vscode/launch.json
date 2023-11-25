@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/tejva/Documents/GitHub/c-programming/01_practise",
-      "program": "c:/Users/tejva/Documents/GitHub/c-programming/01_practise/build/Debug/outDebug",
+      "cwd": "c:/Users/tejva/Documents/GitHub/c-programming/02_practise",
+      "program": "c:/Users/tejva/Documents/GitHub/c-programming/02_practise/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
